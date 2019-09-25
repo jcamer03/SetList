@@ -1,0 +1,30 @@
+SETLIST {
+	color: #de9e48;
+	background-color: #372c2e;
+}
+
+SETLIST, SONG, TITLE, ARTIST, GENRE, YEAR, HEADING, HEADING_TEXT{ 
+     display : block; 
+} 
+
+HEADING {
+	color: #ffffff;
+	background-color: #372c2e;
+	font-family: helvetica;
+	font-size: 150%;
+
+}
+
+TITLE{
+	background-color: #563727;
+	font-family: helvetica;
+	font-size: 120%;
+	padding-left: 10px;
+	color: #de9e48;
+}
+
+ARTIST, GENRE, YEAR {
+	color: #ffffff;
+	padding-left: 30px;
+	font-family: times;
+}
