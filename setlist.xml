@@ -1,0 +1,67 @@
+<?xml-stylesheet type="text/css" href="xml.css"?>
+<SETLIST>
+	<HEADING>
+		<HEADING_TEXT> A VERY STRANGE BAND'S PLAYLIST </HEADING_TEXT>
+	</HEADING>
+	<SONG>
+		<TITLE>Pretty Dirty (In The Fading Light)</TITLE>
+		<ARTIST>Ripe</ARTIST>
+		<GENRE>Indie</GENRE>
+		<YEAR>2013</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>Mystery of Love</TITLE>
+		<ARTIST>Sufjan Stevens</ARTIST>
+		<GENRE>Acoustic</GENRE>
+		<YEAR>2017</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>Falling Slowly</TITLE>
+		<ARTIST>Glen Hansard and Marketa Irglova</ARTIST>
+		<GENRE>Acoustic</GENRE>
+		<YEAR>2006</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>St. James</TITLE>
+		<ARTIST>The Devil Makes Three</ARTIST>
+		<GENRE>Bluegrass</GENRE>
+		<YEAR>2006</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>Dramophone</TITLE>
+		<ARTIST>Caravan Palace</ARTIST>
+		<GENRE>ElectroSwing</GENRE>
+		<YEAR>2012</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>Another Day of Sun</TITLE>
+		<ARTIST>La La Land Cast</ARTIST>
+		<GENRE>Film Music</GENRE>
+		<YEAR>2016</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>The Way I Am</TITLE>
+		<ARTIST>Eminem</ARTIST>
+		<GENRE>Rap</GENRE>
+		<YEAR>2000</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>Bad Idea</TITLE>
+		<ARTIST>YBN Cordae</ARTIST>
+		<GENRE>Rap</GENRE>
+		<YEAR>2019</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>Rigamortis</TITLE>
+		<ARTIST>Kendrick Lamar</ARTIST>
+		<GENRE>Rap</GENRE>
+		<YEAR>2011</YEAR>
+	</SONG>
+	<SONG>
+		<TITLE>Dear Theodosia</TITLE>
+		<ARTIST>Hamilton Cast</ARTIST>
+		<GENRE>Broadway</GENRE>
+		<YEAR>2015</YEAR>
+	</SONG>
+
+</SETLIST>
